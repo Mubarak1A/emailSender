@@ -8,7 +8,7 @@ This Python script automates the process of sending emails to a list of recipien
     ```git clone https://github.com/Mubarak1A/emailSender.git```
 
 2. **Update Email List:**
-   Populate the `emails` list in the script with the email addresses of the recipients to whom you want to send emails.
+   Populate the `emails` list in the script with the email addresses of the recipients to whom you want to send emails and that of the sender.
 
 3. **HTML Content:**
    Customize the content of the HTML email by modifying the `sample.html` file. The script reads the content from this file and substitutes a variable (e.g., `name`) with a specified value.
