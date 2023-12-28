@@ -11,9 +11,6 @@ The function then sends the email using the SMTP server.
 Args:
 None
 
-Outputs:
-None
-
 Example Usage:
 python3 send_mail.py
 
