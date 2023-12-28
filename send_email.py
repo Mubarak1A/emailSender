@@ -17,7 +17,6 @@ python3 send_mail.py
 """
 
 import smtplib
-import os
 from email.message import EmailMessage
 from string import Template
 from pathlib import Path
